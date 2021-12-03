@@ -1,0 +1,103 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "status":"part first"
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "status":"part"
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas.",
+            "status":"part last"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "./../../images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "./../../images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "./../../images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "./../../images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "./../../images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "./../../images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "./../../images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "./../../images/Portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "kind" : "social face"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter",
+            "kind" : "social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest",
+            "kind" : "social pin"
+        }
+    ] ,
+    "profile" : [
+        {
+            "id" : 1,
+            "title" : "Bootstrap",
+            "presenting" : "100%",
+            "line" : "sp1"
+        },
+        {
+            "id" : 2,
+            "title" : "CSS3",
+            "presenting" : "90%",
+            "line" : "sp2"
+        },
+        {
+            "id" : 3,
+            "title" : "Photoshop",
+            "presenting" : "80%",
+            "line" : "sp3"
+        }
+    ]
+}

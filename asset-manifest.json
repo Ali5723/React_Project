@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.bb0c1305.chunk.css",
+    "main.js": "/React_Project/static/js/main.e6a55053.chunk.js",
+    "main.js.map": "/React_Project/static/js/main.e6a55053.chunk.js.map",
+    "runtime-main.js": "/React_Project/static/js/runtime-main.770de749.js",
+    "runtime-main.js.map": "/React_Project/static/js/runtime-main.770de749.js.map",
+    "static/js/2.dc5cd20a.chunk.js": "/React_Project/static/js/2.dc5cd20a.chunk.js",
+    "static/js/2.dc5cd20a.chunk.js.map": "/React_Project/static/js/2.dc5cd20a.chunk.js.map",
+    "static/js/3.dd4af592.chunk.js": "/React_Project/static/js/3.dd4af592.chunk.js",
+    "static/js/3.dd4af592.chunk.js.map": "/React_Project/static/js/3.dd4af592.chunk.js.map",
+    "index.html": "/React_Project/index.html",
+    "static/css/main.bb0c1305.chunk.css.map": "/React_Project/static/css/main.bb0c1305.chunk.css.map",
+    "static/js/2.dc5cd20a.chunk.js.LICENSE.txt": "/React_Project/static/js/2.dc5cd20a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React_Project/static/media/home-bg.14eacc1c.jpg",
+    "static/media/font-awesome.min.css": "/React_Project/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.770de749.js",
+    "static/js/2.dc5cd20a.chunk.js",
+    "static/css/main.bb0c1305.chunk.css",
+    "static/js/main.e6a55053.chunk.js"
+  ]
+}
